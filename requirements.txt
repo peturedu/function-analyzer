@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sympy
+plotly
+jinja2
+numpy
+
+# jakość i testy
+pytest
+ruff
+black
+pre-commit
